@@ -1,0 +1,18 @@
+﻿  Main.c
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(14): warning C4013: 'createFromFile' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(17): warning C4013: 'printDictionary' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(19): warning C4013: 'countWord' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(21): warning C4013: 'insertWord' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(29): warning C4013: 'cancWord' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(29): warning C4013: 'getWordAt' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(35): warning C4013: 'insertDef' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(42): warning C4013: 'searchDef' undefined; assuming extern returning int
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(14): warning C4047: 'initializing': 'NODO *' differs in levels of indirection from 'int'
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(42): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(42): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(43): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(43): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+d:\desktop\project_visual_studio\progettoasd1617_0000806467\progettoasd1617_0000806467\main.c(45): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+  progettoASD1617_0000806467.vcxproj -> D:\Desktop\project_visual_studio\progettoASD1617_0000806467\Debug\progettoASD1617_0000806467.exe
+  progettoASD1617_0000806467.vcxproj -> D:\Desktop\project_visual_studio\progettoASD1617_0000806467\Debug\progettoASD1617_0000806467.pdb (Full PDB)
